@@ -96,5 +96,9 @@
                 </div>
             </div>
         </div>
+        <a href={{ route ('register.faculty') }}>
+                
+                    <button type="button" class="btn btn-success">Create Faculty</button>
+                    </a>
     </body>
 </html>

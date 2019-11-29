@@ -9,7 +9,12 @@
 
                 <div class="card-body">
                     Hi boss!
+                    <a href={{ route ('register.faculty') }}>
+                
+                    <button type="button" class="btn btn-success">Create Faculty</button>
+                    </a>
                 </div>
+               
             </div>
         </div>
     </div>
